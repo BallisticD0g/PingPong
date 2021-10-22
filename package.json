@@ -1,7 +1,6 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,15 @@
   "dependencies": {
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BallisticD0g/PingPong.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BallisticD0g/PingPong/issues"
+  },
+  "homepage": "https://github.com/BallisticD0g/PingPong#readme",
+  "description": ""
 }
